@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ryan Quezon's Profile</title>
+</head>
+<body style="background-color: #496970;">
+    <center>
+        <table style="background-color: #9E7652; font-size: 16px;" width="800px" border="3">
+            <tr>
+                <td rowspan="2">
+                    <img src="ryan.jpg" alt="Picture of me" width="100%">
+                </td>
+                <th width="500px" height="50px" bgcolor="#24CCF0" style="font-size: 24px;">About me</th>
+            </tr>
+            <tr>
+                <td>
+                    <ul style="font-size: 18px;">
+                        <li>Name : Ryan Quezon</li>
+                        <li>Nickname: Ry</li>
+                        <li>Birth Date : November 17</li>
+                        <li>Nationality: Filipino</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="2">
+                    <img src="basketball.jpg" alt="basketball photo of myself" width="100%">
+                </td>
+                <th colspan="2" height="50px" bgcolor="#24CCF0" style="font-size: 24px;">Hobby</th>
+            </tr>
+            <tr>
+                <td>
+                    <ul style="font-size: 18px;">
+                        <p>I love to play basketball ever since I was in grade school. My father has been my inspiration for playing basketball since I was a child because I used to always go to his basketball games.</p>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2" height="50px" bgcolor="#24CCF0" style="font-size: 24px;">Links</th>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <ul style="font-size: 18px;">
+                        <li><a href="https://www.facebook.com/ryanemmanuel.quezon">Facebook</a></li>
+                        <li><a href="https://www.linkedin.com/in/ryan-emmanuel-quezon-b05b74253/">LinkedIn</a></li>
+                        <li><a href="https://github.com/ryanquezon">GitHub</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
